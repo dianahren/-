@@ -30,7 +30,7 @@ Diana start programming at 2022-10-24 21:08:59.417664
 ```
 
 - результати виконання завдання *N3*;
-![alttext]()
+![alttext](https://github.com/dianahren/-/raw/main/laba_1/pictures/%D1%81%D0%BA%D1%80%D1%96%D0%BD1.png)
 ### Висновок: 
 > у висновку потрібно відповісти на запитання:
 - :question: Що зроблено в роботі;
