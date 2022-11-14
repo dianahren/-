@@ -7,7 +7,7 @@
     1. Розробили та Створили обєкти та класи, спробували методи, класові змінні та класові методи, попрацювали з атрибутами...
     2. Програма вивела значення
     3. 
-    ![alt text](https://github.com/stasik1435/laba/raw/main/laba3/src/Screenshot_6.png)
+    ![alt text](https://github.com/dianahren/-/raw/main/laba_3/img/photo_2022-11-15_00-47-31.jpg)
 
     ---
     - Відповіді на запитання
