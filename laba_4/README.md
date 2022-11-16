@@ -5,12 +5,12 @@
 ### Виконання роботи
 - Результати виконання завдання:
 
-![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_4/src/1.png)
-![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_4/src/Screenshot_1.png)
-![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_4/src/2.png)
-![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_4/src/3.png)
-![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_4/src/4.png)
-![alt text](https://github.com/Rudkevych1/Rudkevych1/raw/main/lab_4/src/5.png)
+![alt text](https://github.com/dianahren/-/raw/main/laba_4/src/1.jpg)
+![alt text](https://github.com/dianahren/-/raw/main/laba_4/src/2.jpg)
+![alt text](https://github.com/dianahren/-/raw/main/laba_4/src/3.jpg)
+![alt text](https://github.com/dianahren/-/raw/main/laba_4/src/4.jpg)
+![alt text](https://github.com/dianahren/-/raw/main/laba_4/src/5.jpg)
+
 
 
 ### Висновок
